@@ -10,6 +10,6 @@ function onChange(control, oldValue, newValue, isLoading) {
        g_form.setValue('review_platform', ref.u_review_platform);
        g_form.setValue('review_platform_url', ref.u_review_platform_url);
        g_form.setValue('data_center_reference', ref.u_data_center_reference);
-       //...
+       //............
    });
 }

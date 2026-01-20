@@ -172,8 +172,17 @@
         "sys_updated_on": "2026-01-20 10:34:33",
         "SERVER_MOD_TIME": 1768885473000,
         "LOCAL_MOD_TIME": 1768906013156,
-        "CURRENT_LOCAL_MOD_TIME": 1768833800909,
+        "CURRENT_LOCAL_MOD_TIME": 1768906013156,
         "lastmodified": 1768833807715
+      },
+      "vscode test": {
+        "sys_id": "85f3147d1b6e3a107e07a711604bcb35",
+        "LIVE": false,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1768889101000,
+        "sys_updated_on": "2026-01-20 11:35:01",
+        "SERVER_MOD_TIME": 1768889101000,
+        "LOCAL_MOD_TIME": 1768908944714
       }
     }
   }
