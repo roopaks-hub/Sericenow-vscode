@@ -16,7 +16,7 @@
    }
 
    //Type appropriate comment here, and begin script below
-   //vscode
+   //vscode....
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>Roopa.KS@consilio.com</sys_created_by>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f035fb511be2f6107e07a711604bcb56</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>test</sys_name>
         <sys_overrides/>
         <sys_package display_value="Roopa" source="x_nsllc_roopa">795ccb511beeb6107e07a711604bcb83</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Roopa">795ccb511beeb6107e07a711604bcb83</sys_scope>
         <sys_update_name>sys_script_client_f035fb511be2f6107e07a711604bcb56</sys_update_name>
         <sys_updated_by>Roopa.KS@consilio.com</sys_updated_by>
-        <sys_updated_on>2026-01-19 14:43:27</sys_updated_on>
+        <sys_updated_on>2026-01-20 10:34:33</sys_updated_on>
         <table>incident</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
