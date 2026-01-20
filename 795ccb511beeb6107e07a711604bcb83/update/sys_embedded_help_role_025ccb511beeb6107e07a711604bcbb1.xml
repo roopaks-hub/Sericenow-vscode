@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_nsllc_roopa.user" name="x_nsllc_roopa.user">4e5ccb511beeb6107e07a711604bcbae</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Roopa.KS@consilio.com</sys_created_by>
+        <sys_created_on>2026-01-19 11:43:18</sys_created_on>
+        <sys_id>025ccb511beeb6107e07a711604bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4e5ccb511beeb6107e07a711604bcbae</sys_name>
+        <sys_package display_value="Roopa" source="x_nsllc_roopa">795ccb511beeb6107e07a711604bcb83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roopa">795ccb511beeb6107e07a711604bcb83</sys_scope>
+        <sys_update_name>sys_embedded_help_role_025ccb511beeb6107e07a711604bcbb1</sys_update_name>
+        <sys_updated_by>Roopa.KS@consilio.com</sys_updated_by>
+        <sys_updated_on>2026-01-19 11:43:18</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
